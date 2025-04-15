@@ -1,0 +1,5 @@
+@EndUserText.label: 'Virtualización'
+define service Zsd_flight_discount_0631 {
+  expose zcds_virtual_discount_0631;
+  expose zcds_proj_virtual_disc_0631;
+}
